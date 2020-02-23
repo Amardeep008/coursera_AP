@@ -7,6 +7,9 @@ div{
 	width:6.2%;
 	box-sizing: border-box;
 }
+div:hover {
+  transform: scale(2.1);
+}
 #d0{
 	background-color: #000;
 	border:2px solid white;
